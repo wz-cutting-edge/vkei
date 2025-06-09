@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/1RcDjAE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![vkei-showcase](https://github.com/user-attachments/assets/fc685f8b-c869-4d0a-b565-ae5cd664245f)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
